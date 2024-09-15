@@ -1,8 +1,6 @@
 <h1 align="center">Medicine Recommendation System 💊</h1>
 <h3 align="center">Empowering Healthcare with Personalized Medicine Suggestions</h3>
 
-<img align="right" alt="Medicine Recommendation" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
-
 
 ## Overview 🔍
 The **Medicine Recommendation System** is an innovative project designed to enhance user experience in healthcare by offering personalized medicine suggestions. Similar to how Amazon suggests products, this system allows users to input their disease (e.g., **Migraine**) and receive relevant medicine recommendations.
